@@ -17,7 +17,7 @@ pip install -r requirements.txt
 4.Ensure you have FFmpeg installed for audio processing
 Usage Instructions – Run this command:
 streamlit run app.py
-Deployment Link – If deployed, provide the URL for users to test it.
+Deployment Link – https://aihackverse-vkn6t3jcpskaysn7kqtmka.streamlit.app/
 Tech Stack – 
 Machine Learning: TensorFlow, Keras, Librosa (Audio Processing)
 Frontend: Streamlit
